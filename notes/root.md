@@ -1,12 +1,10 @@
 ---
 id: hve7k2n6sn92r6u579p31hd
-title: Root
+title: LC-MS Training Resources
 desc: ''
-updated: 1672777988655
+updated: 1672778135885
 created: 1667329753283
 ---
-# LC-MS Application Resources
-
 ## Table of contents
 * Different software components - Tune file, Xcalibur, Freestyle etc.
   * Tune file functions
@@ -25,3 +23,6 @@ created: 1667329753283
   * Setup (installing, removing) - temp at ion transfer tube
   * Thermo Foundation software
   * Maintenance - tip removal, tip-to-chip calibration
+
+## Further reading
+* [[Exactive series operating manual|manuals/Exactive-Series_Operating_Manual.pdf]]
