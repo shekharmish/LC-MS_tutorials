@@ -2,11 +2,13 @@
 id: hve7k2n6sn92r6u579p31hd
 title: LC-MS Training Resources
 desc: ''
-updated: 1673988485402
+updated: 1676389353017
 created: 1667329753283
 ---
 
-![Lab group logo](/assets/images/zhao-group-logo.png)
+<!-- ![Lab group logo](/assets/images/zhao-group-logo.png) -->
+
+![CABBI logo](/assets/images/cabbi-logo.png)
 
 ## Table of contents
 
